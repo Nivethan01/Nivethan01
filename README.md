@@ -2,12 +2,19 @@
 Hey there! 👋 I'm Nivethan.E, currently immersed in my third year studying Electrical and Electronics Engineering (EEE), all while fueling my passion for both hardware and software development. Here's a glimpse into what keeps me busy:
 
 🛠️ Constantly honing my skills as a Full Stack web developer, with a particular affinity for MERN stack projects.
+
 🌐 Crafting intuitive and efficient web solutions is my forte, whether it's developing sleek user interfaces or optimizing server-side functionalities.
+
 🤝 Seeking collaborations on exciting web development ventures that seamlessly integrate engineering principles with cutting-edge digital innovations.
+
 🌱 Eagerly exploring advanced JavaScript frameworks like React.js to create dynamic and engaging user experiences.
+
 💡 Currently delving into the intricacies of backend technologies such as Node.js and Express.js to build robust and scalable web applications.
+
 🔍 On the lookout for opportunities to enhance my understanding of web accessibility and inclusive design practices, ensuring that my creations are usable by all.
+
 💬 Feel free to strike up a conversation about blending engineering concepts with web development, or if you're curious about optimizing energy efficiency in electronic systems.
+
 🎉 Fun Fact: I once pieced together a mini hydroelectric generator using spare parts salvaged from old electronics! ⚡️
 
 ## 🌐 Socials:
