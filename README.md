@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hey there! 👋 I'm Nivethan.E, a passionate Electrical and Electronics Engineering (EEE) student with a knack for web development. Here's a bit about what I'm up to:<br><br>🔨 Developing a web-based IoT dashboard for monitoring energy consumption.<br>🤝 I'm looking to collaborate on<br>Exciting web development projects that combine engineering principles with innovative digital solutions.<br>Open-source initiatives focusing on sustainability and energy efficiency.<br>🆘 I'm looking for help with<br>Enhancing my skills in back-end development and server-side technologies.<br>Understanding best practices in web accessibility and inclusive design.<br>📚 I'm currently learning<br>Advanced JavaScript frameworks like React.js for building dynamic user interfaces.<br>Backend technologies such as Node.js and Express.js for creating scalable web applications.<br>💬 Ask me about<br>My experiences in blending engineering concepts with web development.<br>Tips for optimizing energy efficiency in electronic devices and systems.<br>🎉 Fun fact<br>I once built a mini hydroelectric generator using spare parts from old electronics! ⚡️
+Hey there! 👋 I'm Nivethan.E, currently immersed in my third year studying Electrical and Electronics Engineering (EEE), all while fueling my passion for both hardware and software development. Here's a glimpse into what keeps me busy:
 
+🛠️ Constantly honing my skills as a Full Stack web developer, with a particular affinity for MERN stack projects.
+🌐 Crafting intuitive and efficient web solutions is my forte, whether it's developing sleek user interfaces or optimizing server-side functionalities.
+🤝 Seeking collaborations on exciting web development ventures that seamlessly integrate engineering principles with cutting-edge digital innovations.
+🌱 Eagerly exploring advanced JavaScript frameworks like React.js to create dynamic and engaging user experiences.
+💡 Currently delving into the intricacies of backend technologies such as Node.js and Express.js to build robust and scalable web applications.
+🔍 On the lookout for opportunities to enhance my understanding of web accessibility and inclusive design practices, ensuring that my creations are usable by all.
+💬 Feel free to strike up a conversation about blending engineering concepts with web development, or if you're curious about optimizing energy efficiency in electronic systems.
+🎉 Fun Fact: I once pieced together a mini hydroelectric generator using spare parts salvaged from old electronics! ⚡️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivethan-eswaran-226010255/) 
