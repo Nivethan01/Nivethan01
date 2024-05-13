@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Nivethan.E, currently immersed in my third year studying Electrical and Electronics Engineering (EEE), all while fueling my passion for both hardware and software development. Here's a glimpse into what keeps me busy:
+Hey there! 👋 I'm Nivethan Eswaran, currently immersed in my third year studying Electrical and Electronics Engineering (EEE), all while fueling my passion for both hardware and software development. Here's a glimpse into what keeps me busy:
 
 🛠️ Constantly honing my skills as a Full Stack web developer, with a particular affinity for MERN stack projects.
 
