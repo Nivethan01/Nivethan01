@@ -7,7 +7,7 @@ Hey there! 👋 I'm Nivethan Eswaran, currently immersed in my third year studyi
 
 🤝 Seeking collaborations on exciting web development ventures that seamlessly integrate engineering principles with cutting-edge digital innovations.
 
-🌱 Eagerly exploring advanced JavaScript frameworks like React.js to create dynamic and engaging user experiences.
+🌱  Eager to learn the basics of SQL for data management and backend integration while exploring advanced JavaScript frameworks like React.js to build dynamic and engaging user experiences.
 
 💡 Currently delving into the intricacies of backend technologies such as Node.js and Express.js to build robust and scalable web applications.
 
